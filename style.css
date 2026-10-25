@@ -131,11 +131,6 @@ button[command="show-modal"] {
     text-align: center;
 }
 
-button[command="show-modal"]:hover {
-    background: var(--color-accent-light);
-    border-color: var(--color-accent);
-}
-
 /* Attribute selector: buttons that DONT open dialogs. */
 button:not([command="show-modal"]) {
     padding: 0.5em 0.75em;
