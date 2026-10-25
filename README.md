@@ -1,6 +1,3 @@
-# cse134b-hw3
-
-
 | Field               | Value |
 | :------------------ | :---- |
 | Repository URL      | https://github.com/kcharry/cse134b-hw3 |
